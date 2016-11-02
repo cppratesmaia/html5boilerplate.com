@@ -18,7 +18,7 @@
 .grid-cell {
     display: inline-block;
     letter-spacing: normal;
-    text-align: left;
+    text-align: justify;
     text-rendering: auto;
     vertical-align: top;
     width: 50%;

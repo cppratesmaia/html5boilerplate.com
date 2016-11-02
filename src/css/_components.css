@@ -111,7 +111,7 @@
  * Star
  */
 
-.star {
+.fa fa-paw {
     color: #e08524;
 }
 
@@ -138,4 +138,8 @@
 
 .Icon--stackoverflow {
     background-image: url("../img/stackoverflow.svg");
+}
+
+.fa-facebook-square {
+    color: #3333dd;
 }

@@ -7,9 +7,32 @@
  */
 
 .site-header {
-    padding-top: 50px;
+    padding-top: 20px;
+
 }
 
+.site-header div {
+    float: left;    
+}
+
+.site-header .logo{
+    width: 20%;
+}
+
+.site-header .phrase{
+    width: 60%;
+}
+
+.site-header .icons{
+    width: 20%;
+}
+
+
+
+.header-phrase {
+    padding-top: 70px;
+    
+}
 /*
  * Site logo
  */
@@ -21,7 +44,6 @@
     font-weight: bold;
     line-height: 32px;
     text-decoration: none;
-    text-shadow: 2px 2px 0 #000;
     text-transform: uppercase;
 }
 
@@ -54,6 +76,7 @@
  */
 
 .site-promo {
+    clear: both;
     padding: 4em 0 6em;
 }
 

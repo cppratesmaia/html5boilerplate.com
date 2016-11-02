@@ -20,7 +20,7 @@ The HTML5 Boilerplate website is a simple static site:
 
 You should be able to work almost entirely in the [`src/`](src)
 directory.
-
+* cd git/aupr *
 While developing run `npm run serve` as this will open the website
 in your default browser and automatically update it whenever changes
 are made to the page or any of the files contained in the page.
